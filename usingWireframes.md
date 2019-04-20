@@ -1,4 +1,4 @@
 # Using Wireframes
 
-*Remember to unlink
-*Remember to ungroup
+* Remember to unlink
+* Remember to ungroup
